@@ -54,3 +54,17 @@ li{
 .wrap_2 ul li:first-child{
 	border-top: 0;
 }
+a { 
+	color: #7f8c8d;
+	-webkit-transition: all 0.3s linear;
+	-o-transition: all 0.3s linear;
+	transition: all 0.3s linear;
+	text-decoration: none;
+	outline: none;
+	-webkit-tap-highlight-color:transparent;
+	-webkit-tap-highlight-color: transparent;
+
+}
+a:hover{
+	color: #000100; 
+}
